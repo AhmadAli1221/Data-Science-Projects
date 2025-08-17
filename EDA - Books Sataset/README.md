@@ -29,8 +29,3 @@ The goal is to clean the data, visualize distributions, and uncover insights int
 - English-language books make up the majority, though other languages are also represented.
 - Some publishers (e.g., HarperCollins) dominate both book count and sales.
 - Ratings do not always correlate with sales — suggesting marketing and publisher influence.
-
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/books-eda.git
